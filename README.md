@@ -8,7 +8,7 @@ My name is Santiago, I'm from Uruguay, besides surfing and travelling I'd also b
 
 - 📚 I’m currently learning how to use AI to merge the data analysis world into the development process of an application.
 
-- 📫 You can reach out to me though my work email at santiago.fitipaldo@init.uy for any inquiry or working proposal.
+- 📫 You can reach out to santiago.fitipaldo@init.uy for any inquiry or working proposal.
 
 Check some of our work at https://init.uy
 
