@@ -14,7 +14,7 @@ Check some of our work at https://init.uy
 
 Never stop building!
 
-This is my personal account but you can also find some of my contributions at: https://github.com/sfitipaldo-classwallet.
+More work at: https://github.com/sfitipaldo-classwallet.
 
 
 <!--
