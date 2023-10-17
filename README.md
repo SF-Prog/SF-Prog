@@ -10,11 +10,11 @@ Enthusiastic Software Developer with a lifelong passion for creating and buildin
 
 - 📫 You can reach out to santiago.fitipaldo@init.uy for any inquiry or working proposal.
 
-Check some of our work at https://init.uy
+You can check some of our work at https://init.uy
 
 Never stop building!
 
-More work at: https://github.com/sfitipaldo-classwallet
+More of my activity at: https://github.com/sfitipaldo-classwallet
 
 
 <!--
