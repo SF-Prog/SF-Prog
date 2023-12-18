@@ -1,6 +1,6 @@
 It's me, Fito! 😄
 
-Enthusiastic Software Developer with a lifelong passion for creating and building since childhood. I am deeply dedicated to crafting remarkable products for clients by leveraging the most suitable technologies and robust architectural schemas. My journey as a developer has been fuelled by an unwavering curiosity, a commitment to innovation, and a relentless pursuit of excellence. Inspired by translating ideas into impactful solutions, I am driven to contribute my skills and dedication to delivering results for clients and end-users alike.
+Enthusiastic Software Developer with a lifelong passion for creating and building since childhood. I like crafting remarkable products for clients by leveraging the most suitable technologies and robust architectural schemas. My journey as a developer has been fuelled by an unwavering curiosity, commitment to innovation, and pursuit of excellence. Always felt inspired by translating ideas into effective solutions.
 
 - 🛎️ I'd been part of the INIT.UY team for the last 3 years, learning not only clean code fundamentals, architectural overview and time management, but one remarkable thing was to learn the whole process to create a product from scratch. We achieved great goals together, including several MVP developments, blockchain challenges faced mostly in Solana, and corporate microservices with loads of business logic and technical requirements.
 
