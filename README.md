@@ -2,19 +2,11 @@ It's me, Fito! 😄
 
 Enthusiastic Software Developer with a lifelong passion for creating and building since childhood. I like crafting remarkable products for clients by leveraging the most suitable technologies and robust architectural schemas. My journey as a developer has been fuelled by an unwavering curiosity, commitment to innovation, and pursuit of excellence. Always felt inspired by translating ideas into effective solutions.
 
-- 🛎️ I'd been part of the INIT.UY team for the last 3 years, learning not only clean code fundamentals, architectural overview and time management, but one remarkable thing was to learn the whole process to create a product from scratch. We achieved great goals together, including several MVP developments, blockchain challenges faced mostly in Solana, and corporate microservices with loads of business logic and technical requirements.
+- 🛎️ I'd been part of the INIT.UY team for the last 3 years, learning not only clean code fundamentals, architectural overview and time management. We achieved great goals together, including MVP development, blockchain implementation (mostly Solana), corporate microservices with loads of business logic, technical requirements and SCRUM compliant.
 
-- 🎎 I’m looking to collaborate on some project related to the environmental crisis, I'd always wanted to contribute somehow to this cause and hopefully in the near future will find the opportunity.
-
-- 📚 I’m currently learning how to use AI to merge the data analysis world into the development process of an application. But always seeking to learn more technologies and best practices.
-
-- 📫 You can reach out to santiago.fitipaldo@init.uy for any inquiry or working proposal.
+- 📚 I’m constantly learning blckchain, always seeking to learn more technologies and best practices on any framework.
 
 You can check some of our work at https://init.uy
-
-Never stop building!
-
-More of my activity at: https://github.com/sfitipaldo-classwallet
 
 
 <!--
