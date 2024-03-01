@@ -4,7 +4,7 @@ I carry a lifelong passion for creating and building since childhood. I like cra
 
 - 🛎️ I'd been part of the INIT.UY team for the last 4 years, learning clean code fundamentals, architectural overview and time management. We achieved great goals together, including MVP development, blockchain implementations (mostly on Solana's network), corporate microservices with loads of business logic, technical requirements and SCRUM compliance.
 
-- 📚 I’m constantly learning, one of my favourite topics is blockchain related ususally.
+- 📚 I’m constantly learning, usually my favourite topics are blockchain related.
   
 You can check some of our work at https://init.uy
 
