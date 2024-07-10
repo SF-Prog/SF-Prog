@@ -2,7 +2,7 @@ Welcome, I'm software Engineer from Montevideo, Uruguay. My passion is travellin
  
 I carry a lifelong passion to create and build since childhood. Nowadays, I enjoy implementing remarkable products for clients, by leveraging the most suitable technologies and robust architectural solutions. My journey as a developer has been fuelled by an unwavering curiosity, commitment to innovation, and pursuit of excellence. Always felt inspired by translating ideas into effective solutions.
 
-- 🛎️ For the last 6 years, I'd been focused on learning clean code fundamentals, architectural overview and time management. Worked on a variety of projects including MVP developments, blockchain implementations (mostly on Solana's network), corporate microservices creation and mantainance (carrying loads of business logic), technical documentation and SCRUM compliance.
+- 🛎️ For the last 6 years, my focus was to learn clean code fundamentals, architectural overview and time management. Worked on a variety of projects including MVP developments, blockchain implementations (mostly on Solana's network), corporate microservices creation and mantainance (carrying loads of business logic), technical documentation and SCRUM compliance.
 
 - 📚 I’m constantly learning, usually my favourite topics are blockchain related and new emerging technologies.
 
