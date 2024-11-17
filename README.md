@@ -1,22 +1,7 @@
-Welcome, I'm software Engineer from Montevideo, Uruguay. My passion is travelling, surfing and meeting new cultures around the world.
+Welcome, I’m a software engineer from Montevideo, Uruguay. My passion is traveling, surfing, and exploring new cultures around the world.
+
+I have carried a lifelong passion for creating and building things since childhood. Nowadays, I enjoy implementing remarkable products for end-users by leveraging the most suitable technologies and robust architectural solutions. My journey as a developer has been fueled by an unwavering curiosity, a commitment to innovation, and the pursuit of excellence. I’ve always been inspired to transform ideas into effective software solutions.
+
+	•	🛎️ For the past six years, my focus has been on learning clean code fundamentals, gaining an architectural overview, and mastering time management. I’ve worked on a variety of projects, including MVP development, blockchain implementations (mostly on Solana’s network), corporate microservices creation and maintenance (involving extensive business logic), technical documentation, and SCRUM compliance.
  
-I carry a lifelong passion to create and build since childhood. Nowadays, I enjoy implementing remarkable products for clients, by leveraging the most suitable technologies and robust architectural solutions. My journey as a developer has been fuelled by an unwavering curiosity, commitment to innovation, and pursuit of excellence. Always felt inspired by translating ideas into effective solutions.
-
-- 🛎️ For the last 6 years, my focus was to learn clean code fundamentals, architectural overview and time management. Worked on a variety of projects including MVP developments, blockchain implementations (mostly on Solana's network), corporate microservices creation and mantainance (carrying loads of business logic), technical documentation and SCRUM compliance.
-
-- 📚 I’m constantly learning, usually my favourite topics are blockchain related and new emerging technologies.
-
-<!--
-**SF-Prog/SF-Prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	•	📚 I’m constantly learning; my favorite topics are blockchain-related and emerging technologies.
