@@ -1,4 +1,7 @@
-Welcome, I’m a software engineer from Montevideo, Uruguay. My passion is traveling, surfing, and exploring new cultures around the world.
+More work: 
+- https://github.com/sfitipaldo-classwallet
+
+I’m a software engineer from Montevideo, Uruguay. My passion is traveling, surfing, and exploring new cultures around the world.
 
 I have carried a lifelong passion for creating and building things since childhood. Nowadays, I enjoy implementing remarkable products for end-users. My journey as a developer has been fueled by an unwavering curiosity, a commitment to innovation, and the pursuit of excellence. I’ve always been inspired to transform ideas into effective software solutions.
 
